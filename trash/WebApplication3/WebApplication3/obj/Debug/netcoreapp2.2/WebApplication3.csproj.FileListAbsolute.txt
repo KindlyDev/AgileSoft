@@ -1,0 +1,14 @@
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CoreCompileInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache

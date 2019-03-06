@@ -1,0 +1,14 @@
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\bin\Debug\netcoreapp2.2\AgileSoft.deps.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\bin\Debug\netcoreapp2.2\AgileSoft.runtimeconfig.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\bin\Debug\netcoreapp2.2\AgileSoft.runtimeconfig.dev.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\bin\Debug\netcoreapp2.2\AgileSoft.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\bin\Debug\netcoreapp2.2\AgileSoft.pdb
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.csprojAssemblyReference.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.csproj.CoreCompileInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.RazorAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.RazorAssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.AssemblyInfoInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.AssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.RazorTargetAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\AgileSoft\AgileSoft\obj\Debug\netcoreapp2.2\AgileSoft.pdb

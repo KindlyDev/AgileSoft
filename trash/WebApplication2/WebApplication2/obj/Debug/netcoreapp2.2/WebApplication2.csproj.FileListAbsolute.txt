@@ -1,0 +1,28 @@
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+e:\Soft\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+D:\YandexDisk\!!! Универ\Microsoft Visual Studio Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
