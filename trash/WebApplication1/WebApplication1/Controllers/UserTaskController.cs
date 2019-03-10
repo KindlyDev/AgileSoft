@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
+using WebApplication1.Dtos;
 using WebApplication1.Models;
+using WebApplication1.Repositories;
 
 namespace WebApplication1.Controllers
 {
@@ -11,40 +12,42 @@ namespace WebApplication1.Controllers
     [ApiController]
     public class UserTaskController : ControllerBase
     {
-        private readonly UserTaskContext _context;
+        private readonly IUserTaskRepository _repository;
 
-        public UserTaskController(UserTaskContext context)
+        public UserTaskController(IUserTaskRepository repository)
         {
-            _context = context;
-
-            if (_context.UserTasks.Count() == 0)
-            {
-                // Create a new UserTask if collection is empty,
-                // which means you can't delete all UserTasks.
-                _context.UserTasks.Add(new UserTask { TaskName = "Item1" });
-                _context.SaveChanges();
-            }
+            _repository = repository;
         }
 
         // GET: api/UserTask
         [HttpGet]
         public async Task<ActionResult<IEnumerable<UserTask>>> GetUserTasks()
         {
-            return await _context.UserTasks.ToListAsync();
+            var tasks = await _repository.GetAllTasks();
+
+            // TODO: envelope
+            return Ok(tasks);
         }
 
         // GET: api/UserTask/5
         [HttpGet("{id}")]
         public async Task<ActionResult<UserTask>> GetUserTask(long id)
         {
-            var UserTask = await _context.UserTasks.FindAsync(id);
+            var task = await _repository.GetTaskById(id);
 
-            if (UserTask == null)
+            if (task == null)
             {
                 return NotFound();
             }
+            return Ok(task);
+        }
 
-            return UserTask;
+        // POST: api/UserTask/
+        // TODO: swap return type to 201
+        [HttpPost()]
+        public async Task<ActionResult<UserTask>> Create(UserTaskDto dto)
+        {
+            throw new NotImplementedException();
         }
     }
 }

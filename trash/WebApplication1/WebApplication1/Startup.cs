@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using WebApplication1.Models;
+using WebApplication1.Repositories;
 
 namespace WebApplication1
 {
@@ -29,6 +30,11 @@ namespace WebApplication1
         {
             services.AddDbContext<UserTaskContext>(opt =>
                 opt.UseInMemoryDatabase("UserTaskList"));
+            // services.AddScoped<UserTaskRepository>().As<IUserTaskRepository>();
+
+            // autofac
+            // builder.RegisterType<UserTaskRepository>.As<IUserTaskRepository>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
