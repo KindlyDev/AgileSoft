@@ -7,19 +7,19 @@ namespace WebApplication1.Models
 {
     public class UserTask
     {
-        public long TaskId { get; protected set; }
-        public string TaskName { get; protected set; }
-        public bool TaskDescription { get; protected set; }
+        public int Id { get; protected set; }
+        public string Name { get; protected set; }
+        public string Description { get; protected set; }
         public TaskStatus Status { get; protected set; }
 
-        private UserTask(long id, string name, bool description)
+        private UserTask(int id, string name, string description)
         {
-            TaskId = id;
-            TaskName = name;
-            TaskDescription = description;
+            Id = id;
+            Name = name;
+            Description = description;
         }
 
-        public UserTask Create(long id, string name, bool description)
+        public UserTask Create(int id, string name, string description)
         {
             // some validation rules
             return new UserTask(id, name, description);

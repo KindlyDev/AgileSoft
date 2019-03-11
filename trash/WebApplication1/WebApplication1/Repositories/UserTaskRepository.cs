@@ -2,26 +2,38 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using WebApplication1.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using System.Data.SqlClient;
+using Dapper;
 
 namespace WebApplication1.Repositories
 {
+    // dbcontext
+
     public class UserTaskRepository : IUserTaskRepository
     {
-        // dbcontext
-
+        private string _connectionString;
         // constr; context;
         public UserTaskRepository(string connectionString)
         {
-            // create
+            _connectionString = connectionString; 
         }
 
-        public Task<IEnumerable<UserTask>> GetAllTasks()
+        public IEnumerable<UserTask> GetAllTasks()
         {
-            throw new NotImplementedException();
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var result = connection.Query<UserTask>("SELECT Id, Name, Description FROM  UserTask");
+                return result;
+            }
+            //return db.UserTasks.ToList();
+            //throw new NotImplementedException();
         }
 
-        public Task<UserTask> GetTaskById(long id)
+        public UserTask GetTaskById(int id)
         {
+            //return db.UserTasks.Find(id);
             throw new NotImplementedException();
         }
     }

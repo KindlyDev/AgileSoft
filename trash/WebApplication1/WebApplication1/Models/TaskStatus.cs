@@ -2,7 +2,7 @@
 {
     public class TaskStatus
     {
-        public long Id { get; set; }
-        public long Priority{ get; set; }
+        public int Id { get; set; }
+        public string Priority{ get; set; }
     }
 }

@@ -6,13 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using WebApplication1.Models;
 using WebApplication1.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApplication1
 {
@@ -22,19 +22,23 @@ namespace WebApplication1
         {
             Configuration = configuration;
         }
-
+        
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<UserTaskContext>(opt =>
-                opt.UseInMemoryDatabase("UserTaskList"));
+            string connection = Configuration.GetConnectionString("DefaultConnection");
+            //services.AddDbContext<UserTaskContext>(options => options.UseSqlServer(connection));
+            //services.AddDbContext<UserTasksContext>(opt => opt.UseSqlServer(connection));
+
+
             // services.AddScoped<UserTaskRepository>().As<IUserTaskRepository>();
 
             // autofac
             // builder.RegisterType<UserTaskRepository>.As<IUserTaskRepository>();
-
+            //services.AddScoped<IUserTaskRepository, UserTaskRepository>();
+            services.AddScoped<IUserTaskRepository>(provider => new UserTaskRepository(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

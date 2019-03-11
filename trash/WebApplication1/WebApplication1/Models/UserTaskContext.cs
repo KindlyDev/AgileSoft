@@ -12,7 +12,8 @@ namespace WebApplication1.Models
             : base(options)
         {
         }
-
         public DbSet<UserTask> UserTasks { get; set; }
+
+
     }
 }

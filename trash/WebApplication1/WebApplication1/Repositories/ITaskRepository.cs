@@ -7,7 +7,11 @@ namespace WebApplication1.Repositories
 {
     public interface IUserTaskRepository
     {
-        Task<IEnumerable<UserTask>> GetAllTasks();
-        Task<UserTask> GetTaskById(long id);
+        IEnumerable<UserTask> GetAllTasks();
+        UserTask GetTaskById(int id);
+        //void Create(UserTask item);
+        //void Update(UserTask item); 
+        //void Delete(long id); 
+        //void Save();
     }
 }

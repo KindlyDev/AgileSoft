@@ -12,3 +12,31 @@ e:\Soft\Microsoft Visual Studio Projects\WebApplication1\WebApplication1\obj\Deb
 e:\Soft\Microsoft Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
 e:\Soft\Microsoft Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
 e:\Soft\Microsoft Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+G:\YandexDisk\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+D:\YandexDisk\!!! Универ\Учеба\4 курс\Диплом\AgileSoft\trash\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
